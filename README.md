@@ -3,7 +3,7 @@
 I'm a passionate developer constantly exploring new technologies and improving my skills. Here's a little about me:
 
 ## 🚀 About Me
-- 🌱 I’m currently working at Sopra Steria Group
+- 🌱 I’m currently working at FERCHAU France
 - 👯 I’m looking to collaborate on **open source projects** about Web Development, Plugins of MC, and more!
 - 💬 Ask me about **web development, Python, JavaScript, Java, and more**
 - 📫 How to reach me: contact@nicolas-raynaud.fr
